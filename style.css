@@ -1,0 +1,19 @@
+::-webkit-scrollbar {
+    width: 18px;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 35px;
+    background-color: #898989;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 35px;
+    background-color: #F64348;
+}
+
+.teste {
+    text-align: center;
+    text-decoration: underline;
+    color: #F64348;
+}
