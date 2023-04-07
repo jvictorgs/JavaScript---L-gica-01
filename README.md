@@ -10,7 +10,7 @@
 
 <p align="center">Aqui estão alguns projetos desenvolvidos por mim durante minha formação em lógica de programação.</p>
 
-<h2 align="center">Links:</h2>
+<h2 align="center">Links: Obs: O projeto não foi adicionado no vercel, pois contém diferentes arquivos.js com diversos intuitos de programação, caso queira testar os programas, siga os passos abaixo.</h2>
 
 ## 🛠️ Abrir e rodar o projeto
 
